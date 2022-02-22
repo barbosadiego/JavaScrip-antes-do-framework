@@ -51,3 +51,7 @@ a{
 a.active{
   background-color: tomato;
 }
+
+.content{
+  padding-left: 100px;
+}
